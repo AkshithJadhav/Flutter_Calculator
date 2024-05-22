@@ -1,16 +1,8 @@
-# flutter_calculator
+# Flutter_Calculator
 
-A new Flutter project.
+This is a Simple Copy of the Working Iphone Calculator
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<img>![Preview](https://github.com/AkshithJadhav/flutter_calculator/assets/131248055/ab90972c-8be1-433c-8b55-0e9bace82a7a)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
